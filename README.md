@@ -1,2 +1,2 @@
 # AWS-Serverless-Data-Lake-ShopNow
-Architecture Big Data Serverless (S3, Glue, Athena) pour l'analyse de ventes E-commerce. Sécurisée via IAM.
+Architecture Data Lake sur AWS (S3, Glue, Athena, QuickSight) avec gestion stricte des rôles IAM.
