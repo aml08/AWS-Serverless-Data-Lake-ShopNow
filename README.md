@@ -61,7 +61,7 @@ Validation effectuée via des requêtes SQL complexes dans **Amazon Athena** :
 
 ![Athena SQL Results](athena_sql_results.png)
 
-*Exemple de requête analytique validée (Chiffre d'Affaires par Catégorie) :*
+*Exemple de requête analytique validée (CA par catégorie) :*
 
 ```sql
 SELECT 
